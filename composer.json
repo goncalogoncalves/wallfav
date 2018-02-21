@@ -1,0 +1,29 @@
+{
+    "name": "Wallfav",
+    "description": "Put your favourite websites on a wall!",
+    "keywords": ["favourites","manager","organize"],
+    "homepage": "http://wallfav.com",
+    "authors": [
+    {
+        "name": "Gonçalo Gonçalves",
+        "email": "devgoncalo@gmail.com",
+        "homepage": "http://www.goncalogoncalves.com/"
+    }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "monolog/monolog": "1.*",
+        "slim/slim": "2.*",
+        "slim/views": "0.*",
+        "slimcontroller/slimcontroller": "dev-master",
+        "ircmaxell/password-compat": "dev-master",
+        "phpmailer/phpmailer": "5.2.*"
+        },
+        "autoload": {
+            "psr-0": {
+                "Wallfav": "src/"
+                },
+                "classmap": [ "libs" ]
+            }
+
+        }

@@ -1,0 +1,11 @@
+#RewriteEngine on
+#RewriteCond %{REQUEST_URI} !^/public/
+#RewriteRule (.*) /public/$1
+
+
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^wallfav.com$ [NC,OR]
+#RewriteCond %{HTTP_HOST} ^www.wallfav.com$
+#RewriteCond %{REQUEST_URI} !public/
+#RewriteRule (.*) /public/$1 [L]
+

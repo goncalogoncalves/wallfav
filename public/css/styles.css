@@ -1,0 +1,161 @@
+/** REGISTO/LOGIN **/
+
+.ui-dform-estrela-vermelha {
+	color: #d00;
+	padding-left: 4px;
+	font-size: 0.7em;
+}
+
+.ui-dform-form {
+	margin: auto;
+	width: 500px;
+}
+
+.ui-dform-form .disability {
+	font-size: 0.8em;
+	margin-top: 20px;
+}
+
+.ui-dform-form .links {
+	margin-top: 20px;
+	margin-left: 150px;
+}
+
+.ui-dform-form input {
+	border: 1px solid  #f2f2f2;
+	padding: 4px 10px;
+}
+
+.ui-dform-form label.error {
+	position: absolute;
+	font-size: 0.8em;
+	color: #e44;
+	margin-left: 15px;
+	margin-top: 8px;
+}
+
+
+.ui-dform-fieldset {
+
+}
+
+.ui-dform-legend {
+	color: #999;
+	margin-bottom: 20px;
+}
+
+.ui-dform-p {
+	margin-top: 5px !important;
+	margin-bottom: 5px !important;
+}
+
+.ui-dform-label {
+	font-size: 0.9em;
+	color: #555;
+	width: 150px;
+	display: inline-block;
+	font-weight: 300;
+}
+
+.ui-dform-text {
+
+}
+
+.ui-dform-email {
+
+}
+
+.p-checkbox {
+	padding-top: 5px;
+	padding-left: 150px;
+}
+.p-checkbox input{
+	margin-right: 5px;
+}
+.p-checkbox label{
+	width: 177px;
+	font-size: 0.8em;
+	display: inline-block;
+	vertical-align: top;
+}
+.p-checkbox .ui-dform-estrela-vermelha {
+	position: absolute;
+	margin-top: 3px;
+}
+
+.p-checkbox  label.error{
+	margin-left: 192px;
+	margin-top: 0px;
+}
+
+
+.ui-dform-checkbox {
+	margin-left: 150px;
+}
+.ui-dform-checkbox label{
+	font-size: 0.8em;
+	width: 185px;
+	margin-left: 6px;
+}
+
+.ui-dform-checkboxes {
+	width: 215px;
+	display: inline-block;
+	padding-top: 10px;
+}
+
+.ui-dform-checkboxes label{
+	font-size: 0.8em;
+	width: 185px;
+	margin-left: 6px;
+}
+
+
+
+.ui-dform-submit {
+	display: inline-block;
+	min-height: 34px;
+	margin-left: 150px;
+	padding: 0 20px !important;
+	border: none !important;
+	line-height: 34px;
+	letter-spacing: normal;
+	background-color: #009BA3 !important;
+	color: #ffffff !important;
+	margin-top: 10px;
+}
+
+.ui-dform-submit:hover {
+	background-color: #00AFB5 !important;
+	color: #ffffff !important;
+}
+
+#input-captcha{
+	/*border: 1px solid #ddd;*/
+	padding-left: 10px;
+}
+#espaco-captcha {
+	margin-left: 150px;
+}
+.captcha-errado {
+	border: 1px solid #e44 !important;
+}
+
+#estado_login {
+	margin: 15px 0 15px 150px;
+	font-weight: 500;
+}
+
+#estado_registo {
+	margin: 15px 0 15px 150px;
+	font-weight: 500;
+}
+
+
+/** FIM REGISTO/LOGIN **/
+
+.form-erro {
+	/*border: 1px solid #f00;
+	background-color: #fee;*/
+	background-color: rgba(255, 215, 215, 1);
+}
