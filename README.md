@@ -1,4 +1,4 @@
-# wallfav-opensource
+# wallfav
 *Open source version of Wallfav project*
 
 So, some years ago (2014) I started a project of mine where it was possible for a user to put their favourite websites "in a wall". It was a pratical way to manage bookmarks.
