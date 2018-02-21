@@ -1,9 +1,9 @@
 # wallfav
-*Open source version of Wallfav project*
+*Open source version of wallfav project*
 
 So, some years ago (2014) I started a project of mine where it was possible for a user to put their favourite websites "in a wall". It was a pratical way to manage bookmarks.
 
-http://www.wallfav.com/ was the domain, but because the project didn't have a lot of success, I took it down, although I use it everyday hosted in my localhost.
+wallfav.com was the domain, but because the project didn't have a lot of success, I took it down, although I use it everyday hosted in my localhost.
 
 Wallfav looks something like this:
 
